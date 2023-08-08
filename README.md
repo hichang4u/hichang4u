@@ -3,7 +3,7 @@
 ### 🚀 About Me
 
 - 안녕하세요! 개발자 박희창입니다.
-- <a href="https://program-app.tistory.com/" target="_blank">블로그</a>, <a href="https://github.com/hichang4u/" target="_blank">깃허브</a> 등 꾸준한 기록 활동을 통해 **꾸준함을 증명**할 수 있습니다.
+- <a href="https://program-app.tistory.com/" target="_new">블로그</a>, <a href="https://github.com/hichang4u/" target="_blank">깃허브</a> 등 꾸준한 기록 활동을 통해 **꾸준함을 증명**할 수 있습니다.
 - 쉽고 간단한 코드가 유지보수하기 좋고 누구든지 이해할 수 있는, 좋은 코드라고 생각합니다.
 <br/>
 
