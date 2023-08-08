@@ -1,9 +1,9 @@
-[![Visited](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhichang4u%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visited&edge_flat=false)](https://github.com/hichang4u)
+[![Visited](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhichang4u%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visited&edge_flat=false)]
 
 ### 🚀 About Me
 
 - 안녕하세요! 개발자 박희창입니다.
-- [블로그](https://program-app.tistory.com/), [깃허브](https://github.com/hichang4u) 등 꾸준한 기록 활동을 통해 **꾸준함을 증명**할 수 있습니다.
+- <a href="https://program-app.tistory.com/" target="_blank">블로그</a>, <a href="https://github.com/hichang4u/" target="_blank">깃허브</a> 등 꾸준한 기록 활동을 통해 **꾸준함을 증명**할 수 있습니다.
 - 쉽고 간단한 코드가 유지보수하기 좋고 누구든지 이해할 수 있는, 좋은 코드라고 생각합니다.
 <br/>
 
