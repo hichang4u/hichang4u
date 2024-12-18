@@ -13,7 +13,7 @@
 > ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=flat&logo=Eclipse&logoColor=white)
 > ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 > ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
-> ![Cursor AI](https://img.shields.io/badge/Cursor%20AI-Smart%20Coding-blue?style=flat&logo=ai&logoColor=white)
+> ![Cursor AI](https://img.shields.io/badge/Cursor%20AI-blue?style=flat&logo=ai&logoColor=white)
 > ![Egovframe](https://img.shields.io/badge/Egovframe-1b2ba2.svg?style=flat&logo=E&logoColor=white)
 > ##### 💻 Front
 > ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
